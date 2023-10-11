@@ -1,6 +1,5 @@
-<img src="Banners/Main Banner - Rounded.png">
----
-This is the official branding repository for all Pure assets.
+![Pure Banner](https://raw.githubusercontent.com/madebypure/branding/main/Banners/Main%20Banner%20-%20Rounded.png)
+### This is the official branding repository for all Pure assets.
 
 > ⚠️ We currently do not accept any contributions as this is a mostly read-only repo.
 
